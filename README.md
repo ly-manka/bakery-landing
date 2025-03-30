@@ -35,16 +35,15 @@ Creative Bakery is a visually appealing and responsive landing page for a bakery
    ```sh
    git clone https://github.com/ly-manka/bakery-landing.git
 2. **Navigate into the project folder**
- ```sh
+   ```sh
    cd bakery-landing
 3. **Install dependencies**
    ```sh
    npm install
 4. **Run the project**
-   ```sh
-   npm start
+    ```sh
+    npm start
 5. **Open in Browser**
-
    Once the project is running, open your browser and go to:
    ```sh
    http://localhost:8080/
